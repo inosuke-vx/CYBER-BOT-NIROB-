@@ -1,0 +1,12 @@
+{
+  "BOT_NAME": "Tum Dum",
+  "OWNER_NAME": "ইরাম",
+  "PREFIX": "+",
+  "LANGUAGE": "bn",
+  "TIMEZONE": "Asia/Dhaka",
+  "PORT": 8080,
+  "AI_ENABLED": true,
+  "AUTO_REPLY": true,
+  "REPLY_TO_BOTS": false,
+  "COOLDOWN": 1200
+}
