@@ -1,0 +1,19 @@
+const config = require("../config.json");
+
+module.exports = {
+  name: "help",
+  description: "Show available commands",
+
+  async execute({ api, event }) {
+    const text =
+`🤖 ${config.BOT_NAME} HELP
+
+━━━━━━━━━━━━━━
+${config.PREFIX}ai <question>
+${config.PREFIX}info
+${config.PREFIX}help
+━━━━━━━━━━━━━━
+
+    return api.sendMessage(text, event.threadID);
+  }
+};
