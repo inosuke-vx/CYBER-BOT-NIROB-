@@ -5,7 +5,7 @@ A brand new smart Facebook Messenger chatbot.
 
 ## 👑 Owner
 
-ইরাম
+NIROB 
 
 ## 🚀 Features
 
